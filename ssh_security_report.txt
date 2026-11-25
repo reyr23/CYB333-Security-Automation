@@ -1,0 +1,15 @@
+SSH Security Audit Report
+=========================
+Server: OpenSSH_10.2
+Protocol: 2.0
+
+Key Exchange Security Findings:
+
+Algorithm: ecdh-sha2-nistp256
+Finding: using elliptic curves that are suspected as being backdoored by the U.S. National Security Agency
+
+Algorithm: ecdh-sha2-nistp384
+Finding: using elliptic curves that are suspected as being backdoored by the U.S. National Security Agency
+
+Algorithm: ecdh-sha2-nistp521
+Finding: using elliptic curves that are suspected as being backdoored by the U.S. National Security Agency
